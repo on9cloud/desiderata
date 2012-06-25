@@ -1,0 +1,4 @@
+desiderata
+==========
+
+Data warehouse desiderata
